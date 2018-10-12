@@ -83,10 +83,10 @@ iops_in_progress | This value counts the number of I/O requests that have been i
 Name | Description | 中文描述 | 备注
 ---------|-------------|---------|-------------
 net_bytes_sent | The total number of bytes sent by the interface
-Net_bytes_recv | The total number of bytes received by the interface
-Net_packets_sent | The total number of packets sent by the interface
-Net_packets_recv | The total number of packets received by the interface
-Net_err_in  | The total number of receive errors detected by the interface
-Net_err_out | The total number of transmit errors detected by the interface
-Net_drop_in  | The total number of received packets dropped by the interface
-Net_drop_out  | The total number of transmitted packets dropped by the interface
+net_bytes_recv | The total number of bytes received by the interface
+net_packets_sent | The total number of packets sent by the interface
+net_packets_recv | The total number of packets received by the interface
+net_err_in  | The total number of receive errors detected by the interface
+net_err_out | The total number of transmit errors detected by the interface
+net_drop_in  | The total number of received packets dropped by the interface
+net_drop_out  | The total number of transmitted packets dropped by the interface
